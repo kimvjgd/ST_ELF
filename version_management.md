@@ -1,3 +1,6 @@
+latest version = "1.0.2"
+
+
 [ver 1.0.0]
     - 2026/11/24 
     - First application
@@ -6,4 +9,9 @@
     - 2026/11/24 
     - S/W update check ver.
     - Reboot after S/W update
+
+[ver 1.0.2]
+    - 2026/11/24 
+    - S/W update check ver.
+    - Comparison - latest version
 
