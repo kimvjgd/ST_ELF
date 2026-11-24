@@ -1,4 +1,4 @@
-latest version = "1.0.7"
+latest version = "1.0.8"
 sha256 = "c0b2a28927c34c92467906e648141e72cc481bacd91432ee035d2b5b33218909"
 
 
@@ -35,6 +35,11 @@ sha256 = "c0b2a28927c34c92467906e648141e72cc481bacd91432ee035d2b5b33218909"
     - Roll back automatically if the new version fails to start 3 times
 
 [ver 1.0.7]
+    - 2026/11/24 
+    - Run the installed S/W update version no matter which standup file is launched
+    - Roll back automatically if the new version fails to start 3 times
+
+[ver 1.0.8]
     - 2026/11/24 
     - Run the installed S/W update version no matter which standup file is launched
     - Roll back automatically if the new version fails to start 3 times
