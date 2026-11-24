@@ -1,5 +1,4 @@
-latest version = "1.0.8"
-sha256 = "c0b2a28927c34c92467906e648141e72cc481bacd91432ee035d2b5b33218909"
+latest version = "1.0.9"
 
 
 [ver 1.0.0]
