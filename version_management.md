@@ -1,4 +1,4 @@
-latest version = "1.1.0"
+latest version = "1.1.1"
 
 
 [ver 1.0.0]
@@ -46,3 +46,7 @@ latest version = "1.1.0"
 [ver 1.1.0]
     - 2026/11/24 
     - Eject enabled after measurement
+    
+[ver 1.1.1]
+    - 2026/11/24 
+    - Eject insert graphic error modification
