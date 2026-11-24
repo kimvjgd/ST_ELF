@@ -1,5 +1,5 @@
-latest version = "1.0.5"
-sha256 = "db18b5312daf5766ecdfa7a1498423f03758eab512b4a0f7711fd09076831721"
+latest version = "1.0.7"
+sha256 = "c0b2a28927c34c92467906e648141e72cc481bacd91432ee035d2b5b33218909"
 
 
 [ver 1.0.0]
@@ -29,4 +29,12 @@ sha256 = "db18b5312daf5766ecdfa7a1498423f03758eab512b4a0f7711fd09076831721"
     - 2026/11/24 
     - S/W update test ver. (기능 변경 없음)
 
+[ver 1.0.6]
+    - 2026/11/24 
+    - Run the installed S/W update version no matter which standup file is launched
+    - Roll back automatically if the new version fails to start 3 times
 
+[ver 1.0.7]
+    - 2026/11/24 
+    - Run the installed S/W update version no matter which standup file is launched
+    - Roll back automatically if the new version fails to start 3 times
