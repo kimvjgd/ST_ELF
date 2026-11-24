@@ -1,4 +1,4 @@
-latest version = "1.0.9"
+latest version = "1.1.0"
 
 
 [ver 1.0.0]
@@ -42,3 +42,7 @@ latest version = "1.0.9"
     - 2026/11/24 
     - Run the installed S/W update version no matter which standup file is launched
     - Roll back automatically if the new version fails to start 3 times
+
+[ver 1.1.0]
+    - 2026/11/24 
+    - Eject enabled after measurement
