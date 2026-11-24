@@ -1,5 +1,5 @@
-latest version = "1.0.4"
-sha256 = "9783a8b91fbed4f6d5ffab8987d2bd8cdab3ac89ccea3937cc8d4243f0c6a1dd"
+latest version = "1.0.5"
+sha256 = "db18b5312daf5766ecdfa7a1498423f03758eab512b4a0f7711fd09076831721"
 
 
 [ver 1.0.0]
@@ -24,3 +24,9 @@ sha256 = "9783a8b91fbed4f6d5ffab8987d2bd8cdab3ac89ccea3937cc8d4243f0c6a1dd"
     - 2026/11/24 
     - Default settings: S1 60~180, S2 856~976, SPD 1, GAIN 8
     - Default language English, theme dark, Measurement mode
+
+[ver 1.0.5]
+    - 2026/11/24 
+    - S/W update test ver. (기능 변경 없음)
+
+
